@@ -1,2 +1,2 @@
-# SpfingBoot-GRPC
-# SpfingBoot-GRPC
+# SpringBoot-GRPC-Front
+# SpringBoot-GRPC-Back
